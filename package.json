@@ -1,0 +1,29 @@
+{
+  "name": "vue_simple_todo",
+  "version": "1.0.0",
+  "description": "experimental app in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vue",
+    "todo",
+    "webapp"
+  ],
+  "author": "clemence goh",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemencegoh/vue_todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clemencegoh/vue_todo/issues"
+  },
+  "homepage": "https://github.com/clemencegoh/vue_todo#readme"
+}
